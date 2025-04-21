@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://biopilates.com/</loc>
+    <loc>https://biopilates.fr/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/a-propos</loc>
+    <loc>https://biopilates.fr/a-propos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/cours</loc>
+    <loc>https://biopilates.fr/cours</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/formations</loc>
+    <loc>https://biopilates.fr/formations</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/vlog</loc>
+    <loc>https://biopilates.fr/vlog</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/blog</loc>
+    <loc>https://biopilates.fr/blog</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/contact</loc>
+    <loc>https://biopilates.fr/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/a-propos/stottPilates</loc>
+    <loc>https://biopilates.fr/a-propos/stottPilates</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/a-propos/evolis</loc>
+    <loc>https://biopilates.fr/a-propos/evolis</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/a-propos/gyrotonic</loc>
+    <loc>https://biopilates.fr/a-propos/gyrotonic</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/login</loc>
+    <loc>https://biopilates.fr/login</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://biopilates.com/register</loc>
+    <loc>https://biopilates.fr/register</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
